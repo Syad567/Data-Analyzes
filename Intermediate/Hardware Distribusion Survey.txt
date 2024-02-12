@@ -1,0 +1,15 @@
+1. Berapa Persen Distibusi OS Linux di Bulan Maret sampai di bulan Juli
+2. Berapa Persen Distibusi OS Windows di Bulan Maret sampai di bulan Juli
+3. Berapa Persen Distibusi OS OSX di Bulan Maret sampai di bulan Juli
+4. Berapa Persen Distibusi OS dan CPU CORES di Bulan Maret sampai di bulan Juli
+5. 10 CPUS Berapa Persen Di setiap OS
+6. 1 CPU Berapa Persen di Setiap OS
+7. DI OS Windows ada berapa persen di cpu 1
+
+
+
+
+
+
+
+
